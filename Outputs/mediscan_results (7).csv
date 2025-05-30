@@ -1,0 +1,5 @@
+Patient Name,Age,Gender,Left Eye Disease,Left Eye Accuracy (%),Right Eye Disease,Right Eye Accuracy (%)
+Aruna,88,Female,cataract,99.67,diabetic_retinopathy,99.86
+Anshika,82,Female,diabetic_retinopathy,94.67,glaucoma,99.84
+Arjun,73,Male,glaucoma,97.41,normal,99.06
+Chandra Shekar,50,Male,normal,94.78,normal,99.06
